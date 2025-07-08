@@ -18,8 +18,8 @@ with open(f"letter_templates/{random_letter}","r") as file:
 
 
 #details of sender
-email = "andreeaiulianabadiu@gmail.com"
-password = "ylgxghadqewecgfg"
+email = ""
+password = ""
 
 
 # 2. Check if today matches a birthday in the birthdays.csv
